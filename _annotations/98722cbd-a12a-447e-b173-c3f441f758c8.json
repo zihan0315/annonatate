@@ -1,0 +1,35 @@
+---
+canvas: "https://digitalarchive.npm.gov.tw/Canvas/K1C000636N000000000PBC"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "simplified: \u65e0",
+            "purpose": "commenting",
+            "creator": {
+                "id": "zihan0315",
+                "name": "zihan0315"
+            },
+            "created": "2023-06-21T16:36:26.171Z",
+            "modified": "2023-06-21T16:36:33.607Z"
+        }
+    ],
+    "target": {
+        "source": "https://digitalarchive.npm.gov.tw/Canvas/K1C000636N000000000PBC",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1466.21875,1078.760009765625,169.724853515625,146.71142578125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://digitalarchive.npm.gov.tw/Antique/setJsonU?uid=2694&Dept=U",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "98722cbd-a12a-447e-b173-c3f441f758c8.json",
+    "motivation": "commenting"
+}
