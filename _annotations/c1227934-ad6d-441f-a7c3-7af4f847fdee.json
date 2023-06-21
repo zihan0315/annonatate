@@ -1,0 +1,45 @@
+---
+canvas: "https://digitalarchive.npm.gov.tw/Canvas/K1C000636N000000000PBF"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "bottom of the bowl",
+            "purpose": "describing",
+            "creator": {
+                "id": "zihan0315",
+                "name": "zihan0315"
+            },
+            "created": "2023-06-21T16:38:24.160Z",
+            "modified": "2023-06-21T16:38:32.817Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "bowl",
+            "purpose": "tagging",
+            "creator": {
+                "id": "zihan0315",
+                "name": "zihan0315"
+            },
+            "created": "2023-06-21T16:38:38.585Z",
+            "modified": "2023-06-21T16:38:39.154Z"
+        }
+    ],
+    "target": {
+        "source": "https://digitalarchive.npm.gov.tw/Canvas/K1C000636N000000000PBF",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"1394.2926025390625\" cy=\"1063.4389343261719\" r=\"579.6910750982745\"></circle></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://digitalarchive.npm.gov.tw/Antique/setJsonU?uid=2694&Dept=U",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c1227934-ad6d-441f-a7c3-7af4f847fdee.json",
+    "motivation": "commenting"
+}
