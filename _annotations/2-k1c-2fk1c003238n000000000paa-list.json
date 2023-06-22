@@ -1,0 +1,9 @@
+---
+canvas_id: "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003238N000000000PAA/info.json"
+---
+{% assign annotations = site.annotations | where: "canvas", page.canvas_id | sort: "order" | map: "content" %}
+{
+"@context": "http://iiif.io/api/presentation/3/context.json",
+"id": "{{ site.url }}{{ site.baseurl }}{{page.url}}",
+"type": "AnnotationPage",
+"items": [{{ annotations | join: ","}}] }
