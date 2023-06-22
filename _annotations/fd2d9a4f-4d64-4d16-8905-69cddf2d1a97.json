@@ -1,0 +1,29 @@
+---
+canvas: "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003238N000000000PAA/info.json"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "QQG",
+            "creator": {
+                "id": "zihan0315",
+                "name": "zihan0315"
+            },
+            "created": "2023-06-22T20:08:01.387Z"
+        }
+    ],
+    "target": {
+        "source": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003238N000000000PAA/info.json",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"1586.9998779296875\" cy=\"1459.81298828125\" r=\"58.060742187505134\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "fd2d9a4f-4d64-4d16-8905-69cddf2d1a97.json",
+    "motivation": "commenting"
+}
