@@ -15,6 +15,12 @@
             "title": "object 2 try annotation",
             "description": "",
             "thumbnail": ""
+        },
+        {
+            "board": "<iiif-storyboard url='data:application/json;base64,L1VzZXJzL2Zlbmd6aWhhbi9EZXNrdG9wL2lpaWYgd29ya3Nob3AvQW5ub25hdGF0ZTEuanNvbg==;https://zihan0315.github.io/annonatate/annotations/2-k1c-2fk1c003238n000000000paa-list.json'></iiif-storyboard>",
+            "title": "title1",
+            "description": "no",
+            "thumbnail": "no"
         }
     ]
 }
