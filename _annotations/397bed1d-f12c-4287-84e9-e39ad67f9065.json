@@ -1,0 +1,34 @@
+---
+canvas: "https://iiif.harvardartmuseums.org/manifests/object/311922/canvas/canvas-13972667"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "\u5929",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "zihan0315",
+                "name": "Zihan Feng"
+            },
+            "created": "2023-06-23T16:57:42.512Z",
+            "modified": "2023-06-23T16:57:49.985Z"
+        }
+    ],
+    "target": {
+        "source": "https://iiif.harvardartmuseums.org/manifests/object/311922/canvas/canvas-13972667",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"484.9486389160156\" cy=\"236.06232452392578\" r=\"23.925231933594965\"></circle></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://zihan0315.github.io/annonatate/manifests/iiif.harvardartmuseums.org/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "397bed1d-f12c-4287-84e9-e39ad67f9065.json",
+    "motivation": "commenting"
+}
