@@ -9,6 +9,12 @@
             "title": "Try1",
             "description": "try annotation",
             "thumbnail": ""
+        },
+        {
+            "board": "<iiif-multistoryboard annotationurl='https://zihan0315.github.io/annonatate/annotations/k1c000636n000000000pbc-list.json'></iiif-multistoryboard>",
+            "title": "object 2 try annotation",
+            "description": "",
+            "thumbnail": ""
         }
     ]
 }
