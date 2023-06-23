@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "JADE Trial",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-multistoryboard annotationurl='https://zihan0315.github.io/annonatate/annotations/2-k1c-2fk1c003238n000000000paa-list.json'></iiif-multistoryboard>",
+            "title": "Try1",
+            "description": "try annotation",
+            "thumbnail": ""
+        }
+    ]
+}
