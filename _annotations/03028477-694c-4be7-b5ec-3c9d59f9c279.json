@@ -1,0 +1,34 @@
+---
+canvas: "https://media.nga.gov/public/manifests/canvas/106382.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "gggg'",
+            "purpose": "commenting",
+            "creator": {
+                "id": "zihan0315",
+                "name": "Zihan Feng"
+            },
+            "created": "2023-06-23T16:46:25.951Z"
+        }
+    ],
+    "target": {
+        "source": "https://media.nga.gov/public/manifests/canvas/106382.json",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=8663.572265625,7882.96923828125,4624.087890625,2334.06396484375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://media.nga.gov/public/manifests/nga_highlights.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "03028477-694c-4be7-b5ec-3c9d59f9c279.json",
+    "motivation": "commenting"
+}
