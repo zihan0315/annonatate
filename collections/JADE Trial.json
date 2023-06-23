@@ -21,6 +21,12 @@
             "title": "title1",
             "description": "no",
             "thumbnail": "no"
+        },
+        {
+            "board": "<iiif-storyboard url='https://zihan0315.github.io/annonatate/annotations/106382-list.json' styling='zoom: -3752.4362500000057,5595.897640167912,29191.872500000005,14136.500000000004;'></iiif-storyboard>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
         }
     ]
 }
