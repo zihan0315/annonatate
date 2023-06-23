@@ -1,0 +1,147 @@
+---
+added: '2023-06-23 16:53:38.371763'
+thumbnail: https://ids.lib.harvard.edu/ids/iiif/13972667/full/!170,170/0/default.jpg
+title: H. I. M., the Empress Dowager of China, Cixi  (1835-1908)
+
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://zihan0315.github.io/annonatate/manifests/iiif.harvardartmuseums.org/manifest.json",
+  "@type": "sc:Manifest",
+  "attribution": "Harvard Art Museums",
+  "description": "",
+  "label": "H. I. M., the Empress Dowager of China, Cixi  (1835-1908)",
+  "logo": {
+    "@id": "https://ids.lib.harvard.edu/ids/iiif/437958013/full/!800,800/0/default.jpg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://ids.lib.harvard.edu/ids/iiif/437958013",
+      "profile": "http://iiif.io/api/image/2/level2.json"
+    }
+  },
+  "metadata": [
+    {
+      "label": "Date",
+      "value": "1905-1906"
+    },
+    {
+      "label": "Classification",
+      "value": "Paintings"
+    },
+    {
+      "label": "Credit Line",
+      "value": "Harvard Art Museums/Fogg Museum, Bequest of Grenville L. Winthrop"
+    },
+    {
+      "label": "Object Number",
+      "value": "1943.162"
+    },
+    {
+      "label": "People",
+      "value": [
+        "Artist: Hubert Vos, American, 1855 - 1935"
+      ]
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "169.6 x 123.6 cm (66 3/4 x 48 11/16 in.)\r\nframed: 169.6 x 123.2 x 7 cm (66 3/4 x 48 1/2 x 2 3/4 in.)"
+    },
+    {
+      "label": "Provenance",
+      "value": "Collection of the artist, sold [through Vos sale, Kende Galleries, New York, October 24-25, 1940, no. 98]; to Grenville L. Winthrop, bequest; to Fogg Art Museum, 1943"
+    }
+  ],
+  "rendering": {
+    "@id": "https://www.harvardartmuseums.org/collections/object/311922",
+    "format": "text/html",
+    "label": "Full record view"
+  },
+  "sequences": [
+    {
+      "@id": "https://iiif.harvardartmuseums.org/manifests/object/311922/sequence/normal",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://iiif.harvardartmuseums.org/manifests/object/311922/canvas/canvas-13972667",
+          "@type": "sc:Canvas",
+          "height": 1024,
+          "images": [
+            {
+              "@id": "https://iiif.harvardartmuseums.org/manifests/object/311922/annotation/anno-13972667",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.harvardartmuseums.org/manifests/object/311922/canvas/canvas-13972667",
+              "resource": {
+                "@id": "https://ids.lib.harvard.edu/ids/iiif/13972667/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ids.lib.harvard.edu/ids/iiif/13972667",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 745
+              }
+            }
+          ],
+          "label": "1",
+          "otherContent": [
+            {
+              "@id": "https://iiif.harvardartmuseums.org/manifests/object/311922/list/13972667",
+              "@type": "sc:AnnotationList"
+            }
+          ],
+          "width": 745
+        },
+        {
+          "@id": "https://iiif.harvardartmuseums.org/manifests/object/311922/canvas/canvas-43181778",
+          "@type": "sc:Canvas",
+          "height": 1024,
+          "images": [
+            {
+              "@id": "https://iiif.harvardartmuseums.org/manifests/object/311922/annotation/anno-43181778",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.harvardartmuseums.org/manifests/object/311922/canvas/canvas-43181778",
+              "resource": {
+                "@id": "https://ids.lib.harvard.edu/ids/iiif/43181778/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ids.lib.harvard.edu/ids/iiif/43181778",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 747
+              }
+            }
+          ],
+          "label": "2",
+          "otherContent": [
+            {
+              "@id": "https://iiif.harvardartmuseums.org/manifests/object/311922/list/43181778",
+              "@type": "sc:AnnotationList"
+            }
+          ],
+          "width": 747
+        }
+      ],
+      "viewingHint": "individuals"
+    }
+  ],
+  "thumbnail": {
+    "@id": "https://ids.lib.harvard.edu/ids/iiif/13972667/full/!170,170/0/default.jpg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://ids.lib.harvard.edu/ids/iiif/13972667",
+      "profile": "http://iiif.io/api/image/2/level2.json"
+    }
+  },
+  "within": "https://www.harvardartmuseums.org/collections"
+}
