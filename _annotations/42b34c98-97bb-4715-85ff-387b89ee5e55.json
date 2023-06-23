@@ -1,0 +1,46 @@
+---
+canvas: "https://iiif.harvardartmuseums.org/manifests/object/311922/canvas/canvas-13972667"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "a fan",
+            "purpose": "commenting",
+            "creator": {
+                "id": "zihan0315",
+                "name": "Zihan Feng"
+            },
+            "created": "2023-06-23T16:57:15.847Z",
+            "modified": "2023-06-23T16:57:16.470Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Decoration",
+            "purpose": "tagging",
+            "creator": {
+                "id": "zihan0315",
+                "name": "Zihan Feng"
+            },
+            "created": "2023-06-23T16:57:20.629Z",
+            "modified": "2023-06-23T16:57:22.092Z"
+        }
+    ],
+    "target": {
+        "source": "https://iiif.harvardartmuseums.org/manifests/object/311922/canvas/canvas-13972667",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=274.40655517578125,661.9315185546875,205.75704956054688,114.84112548828125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://zihan0315.github.io/annonatate/manifests/iiif.harvardartmuseums.org/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "42b34c98-97bb-4715-85ff-387b89ee5e55.json",
+    "motivation": "commenting"
+}
