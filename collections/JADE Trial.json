@@ -33,6 +33,12 @@
             "title": "",
             "description": "",
             "thumbnail": ""
+        },
+        {
+            "board": "<iiif-storyboard url='https://zihan0315.github.io/annonatate/annotations/k1c000636n000000000pba-list.json' styling='zoom: -341.4239999999997,18.358833333333177,3508.8479999999995,1699.1999999999996;startenddisplay: tags;toggleoverlay: true;'></iiif-storyboard>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
         }
     ]
 }
