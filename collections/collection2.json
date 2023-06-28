@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "collection2",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-storyboard url='https://zihan0315.github.io/annonatate/annotations/311922-canvas-13972667-list.json' styling='zoom: -684.7799999999999,0,2114.56,1024;'></iiif-storyboard>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
