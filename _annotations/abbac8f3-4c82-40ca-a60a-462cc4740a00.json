@@ -1,0 +1,33 @@
+---
+canvas: "https://digitalarchive.npm.gov.tw/Canvas/K1C002860N000000000PAA"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "\u4e7e\u6e05\u5bab",
+            "purpose": "commenting",
+            "creator": {
+                "id": "zihan0315",
+                "name": "Zihan Feng"
+            },
+            "created": "2023-06-30T15:55:00.766Z"
+        }
+    ],
+    "target": {
+        "source": "https://digitalarchive.npm.gov.tw/Canvas/K1C002860N000000000PAA",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"2153.370361328125,891.713623046875 2322.461181640625,949.8954467773438 2183.370361328125,1030.8045654296875\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://digitalarchive.npm.gov.tw/Antique/setJsonU?uid=396&Dept=U",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "abbac8f3-4c82-40ca-a60a-462cc4740a00.json",
+    "motivation": "commenting"
+}
