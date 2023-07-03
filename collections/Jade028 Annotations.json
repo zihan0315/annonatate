@@ -11,14 +11,8 @@
             "thumbnail": ""
         },
         {
-            "board": "<iiif-multistoryboard annotationurl='https://zihan0315.github.io/annonatate/annotations/k1c002860n000000000paf-list.json'></iiif-multistoryboard>",
-            "title": "Annotation2",
-            "description": "",
-            "thumbnail": ""
-        },
-        {
             "board": "<iiif-multistoryboard annotationurl='https://zihan0315.github.io/annonatate/annotations/k1c002860n000000000pab-list.json'></iiif-multistoryboard>",
-            "title": "Annotation3",
+            "title": "annotation3",
             "description": "",
             "thumbnail": ""
         }
