@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "Jade028 Annotations",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-multistoryboard annotationurl='https://zihan0315.github.io/annonatate/annotations/k1c002860n000000000paa-list.json'></iiif-multistoryboard>",
+            "title": "Place",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
